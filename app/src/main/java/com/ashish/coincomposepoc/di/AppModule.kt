@@ -1,4 +1,4 @@
-package com.ashish.coincomposepoc.data.di
+package com.ashish.coincomposepoc.di
 
 import com.ashish.coincomposepoc.common.Constants
 import com.ashish.coincomposepoc.data.remote.CoinApi
